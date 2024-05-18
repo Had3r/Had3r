@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **multiple JAMstack projects.**
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I'm focusing on learning Astro.
 
 - 📫 How to reach me **adrian.zawadzki1624@gmail.com**
 
