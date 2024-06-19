@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Adrian</h1>
-<h3>As a Frontend Developer, I am deeply engaged in leveraging modern web development architectures to create responsive, accessible, and functional web pages from intricate designs. 
-  My professional journey is marked by a strong commitment to best practices, thorough code reviews, and proactive collaboration with clients and peers, aiming for continuous improvement and effective knowledge sharing.</h3>
+<h3>As a Frontend Developer, I am deeply engaged in leveraging modern web development architectures to create responsive, accessible, and functional web pages. 
+  I'm dedicated to following best practices, conducting detailed code reviews, and working closely with clients and teammates to keep improving and sharing knowledge effectively.</h3>
 
 <hr />
 
