@@ -17,9 +17,6 @@ I build modern websites and web apps that feel fast and stay easy to maintain. I
 - Tailwind CSS
 - Headless CMS integrations
 
-**How I like to work**
-Small reusable components, type-safe data, and iterative improvements guided by Lighthouse & Core Web Vitals.
-
 ---
 
 📫 **Contact** — [adrian.zawadzki1624@gmail.com](mailto:adrian.zawadzki1624@gmail.com)  
