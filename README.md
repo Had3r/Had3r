@@ -3,7 +3,7 @@ Hi 👋 I'm Adrian Zawadzki
 I build modern websites and web apps that feel fast and stay easy to maintain. I care a lot about performance, accessibility, and clean, type-safe code.
 
 **What I'm working on**
-- My portfolio + blog (in progress) — selected work, write-ups, and practical notes
+- My portfolio + blog (in progress) - selected work, write-ups, and practical notes
 
 **What I build**
 - Marketing sites and content-driven pages that load quickly
